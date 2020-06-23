@@ -17,6 +17,8 @@ public class Startup {
 
 	public void initDB() {
 		// attempt to create the user specified database
+		// Test Push 3
+
 		try {
 			log.info("Try to create database " + newDB);
 			Class.forName(driverClass);
