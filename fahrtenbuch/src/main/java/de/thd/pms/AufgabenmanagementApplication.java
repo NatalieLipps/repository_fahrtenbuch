@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FahrtenbuchApplication {
+public class Aufgabenmanagement#hApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FahrtenbuchApplication.class, args);
+		SpringApplication.run(AufgabenmanagementhApplication.class, args);
 	}
 }
